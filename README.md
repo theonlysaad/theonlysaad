@@ -4,15 +4,15 @@
 <img alt="Jhoan Zamora | Gmail" width="320px" src="https://github.com/theonlysaad/theonlysaad/blob/main/assets/GreetingWhiteCrop.png?raw=true" />
 </p>
 
-I am a passionate and hard working full stack software developer from [Morocco](https://www.google.com/maps/place/Maroc/@31.7782655,-9.790777,7z/data=!3m1!4b1!4m6!3m5!1s0xd0b88619651c58d:0xd9d39381c42cffc3!8m2!3d31.791702!4d-7.09262!16zL20vMDR3Z2g?entry=ttu) <img alt="ColombiaFlag" width="18px" src="https://raw.githubusercontent.com/jzamora5/jzamora5/52b8b4734db718550426b542b0cf97ff437f791f/assets/colombiaFlag.svg" />. I love to learn new things everyday and my main focus in technology is Web Development 🌎. My favorite programming languages are JavaScript and Python, but coding itself is pretty fun for me.
+I am a passionate and hard working full stack software developer from [Morocco](https://www.google.com/maps/place/Maroc/@31.7782655,-9.790777,7z/data=!3m1!4b1!4m6!3m5!1s0xd0b88619651c58d:0xd9d39381c42cffc3!8m2!3d31.791702!4d-7.09262!16zL20vMDR3Z2g?entry=ttu) <img alt="ColombiaFlag" width="18px" src="https://github.com/theonlysaad/theonlysaad/52b8b4734db718550426b542b0cf97ff437f791f/assets/colombiaFlag.svg" />. I love to learn new things everyday and my main focus in technology is Web Development 🌎. My favorite programming languages are JavaScript and Python, but coding itself is pretty fun for me.
 
  <a href="www.linkedin.com/in/chah-saad-14a748216">
-    <img align="left" alt="Chah Saad | Linkedin" width="24px" src="https://raw.githubusercontent.com/theonlysaad/theonlysaad/04b0572610c3e8857c85f9dc58126d8d95705a8e/assets/Linkedin.svg" />
+    <img align="left" alt="Chah Saad | Linkedin" width="24px" src="https://github.com/theonlysaad/theonlysaad/04b0572610c3e8857c85f9dc58126d8d95705a8e/assets/Linkedin.svg" />
   </a>
 
 
   <a href="mailto:saadchah.04@gmail.com">
-    <img align="left" alt="Chah Saad | Gmail" width="26px" src="https://raw.githubusercontent.com/theonlysaad/theonlysaad/04b0572610c3e8857c85f9dc58126d8d95705a8e/assets/Gmail.svg" />
+    <img align="left" alt="Chah Saad | Gmail" width="26px" src="https://github.com/theonlysaad/theonlysaad/04b0572610c3e8857c85f9dc58126d8d95705a8e/assets/Gmail.svg" />
   </a>
 
 <br/>

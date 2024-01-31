@@ -6,7 +6,7 @@
 
 I am a passionate and hard working full stack software developer from [Morocco](https://www.google.com/maps/place/Maroc/@31.7782655,-9.790777,7z/data=!3m1!4b1!4m6!3m5!1s0xd0b88619651c58d:0xd9d39381c42cffc3!8m2!3d31.791702!4d-7.09262!16zL20vMDR3Z2g?entry=ttu) <img alt="MoroccanFlag" width="18px" src="https://github.com/theonlysaad/theonlysaad/blob/main/assets/morocco.svg" />. I love to learn new things everyday and my main focus in technology is Web Development 🌎. My favorite programming languages are JavaScript and Python, but coding itself is pretty fun for me.
 
- <a href="www.linkedin.com/in/chah-saad-14a748216">
+ <a href="https://www.linkedin.com/in/chah-saad-14a748216/">
     <img align="left" alt="Chah Saad | Linkedin" width="24px" src="https://github.com/theonlysaad/theonlysaad/blob/main/assets/Linkedin.svg" />
   </a>
 
